@@ -11,7 +11,7 @@ public class Main {
 
         ICommandVoice commandCat01 = (v, x) -> {
             StringBuilder sb = new StringBuilder();
-            sb.append((v + " ").repeat(Math.max(0, x)));
+            sb.append((v + " ").repeat(x));
             return sb.toString();
         };
 
