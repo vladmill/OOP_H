@@ -2,19 +2,20 @@ package homework06.calcSOLID.view.operators;
 
 import homework06.calcSOLID.view.ConsoleView;
 
-public class Subtract extends Operator {
-    public Subtract(ConsoleView console) {
+public class Divide extends Operator {
+
+    public Divide(ConsoleView console) {
         super(console);
-        super.setDescription("вычесть (-)");
+        super.setDescription("разделить (/)");
     }
 
     @Override
     public void execute(double num) {
-        super.getConsole().viewSubtract(num);
+        super.getConsole().viewDivide(num);
     }
 
     @Override
     public void check() {
-        // TODO Auto-generated method stub
+        super.getConsole().setDivide(true);
     }
 }

@@ -2,15 +2,15 @@ package homework06.calcSOLID.view.operators;
 
 import homework06.calcSOLID.view.ConsoleView;
 
-public class Subtract extends Operator {
-    public Subtract(ConsoleView console) {
+public class Multiply extends Operator{
+    public Multiply(ConsoleView console) {
         super(console);
-        super.setDescription("вычесть (-)");
+        super.setDescription("умножить (*)");
     }
 
     @Override
     public void execute(double num) {
-        super.getConsole().viewSubtract(num);
+        super.getConsole().viewMultiply(num);
     }
 
     @Override
