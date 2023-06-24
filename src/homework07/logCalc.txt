@@ -1,0 +1,14 @@
+θών. 24, 2023 12:50:43 PM homework07.model.DecorLog writeLog
+INFO: 5,0 + 5,0 = 10,0
+θών. 24, 2023 1:10:45 PM homework07.model.DecorLog writeLog
+INFO: 5,0 + 5,0 = 10,0
+θών. 24, 2023 1:12:28 PM homework07.model.DecorLog writeLog
+INFO: 6,0 / 1,0 = 6,0
+θών. 24, 2023 1:12:55 PM homework07.model.DecorLog writeLog
+INFO: 12,0 - 20,0 = -8,0
+θών. 24, 2023 1:13:18 PM homework07.model.DecorLog writeLog
+INFO: 23,0 * 2,0 = 46,0
+θών. 24, 2023 1:16:46 PM homework07.model.DecorLog writeLog
+INFO: 56,2 + 17,8 = 74,0
+θών. 24, 2023 1:19:41 PM homework07.model.DecorLog writeLog
+INFO: 86,0 * 13,0 = 1118,0
